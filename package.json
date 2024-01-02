@@ -1,0 +1,22 @@
+{
+  "name": "equations",
+  "version": "1.0.0",
+  "description": "equations resolver",
+  "main": "dist/index.js",
+  "types": "dist/index.d.js",
+  "files": [
+    "dist"
+  ],  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makerjunior/equations.git"
+  },
+  "author": "mentemaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Makerjunior/equations/issues"
+  },
+  "homepage": "https://github.com/Makerjunior/equations#readme"
+}
