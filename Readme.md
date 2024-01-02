@@ -65,7 +65,7 @@ console.log('Raízes Quadráticas:', raizesQuadraticas);
 
 #### Contribuições
 
-Sinta-se à vontade para contribuir para esta biblioteca enviando problemas (issues) ou solicitações de mesclagem (pull requests) no [repositório do GitHub](https://github.com/seu-usuario/seu-repositorio).
+Sinta-se à vontade para contribuir para esta biblioteca enviando problemas (issues) ou solicitações de mesclagem (pull requests) no [repositório do GitHub](https://github.com/Makerjunior/equations).
 
 #### Licença
 
@@ -74,3 +74,8 @@ Esta biblioteca é licenciada sob a Licença MIT - consulte o arquivo [LICENSE](
 ---
 
 Lembre-se de substituir "seu-usuario" e "seu-repositorio" pelos detalhes específicos do seu repositório no GitHub. Esta documentação é um exemplo básico, e você pode expandi-la conforme necessário para cobrir mais casos de uso, exemplos e detalhes de implementação.
+
+Clique aqui 👇 :point_down:👇 :point_down:👇 :point_down:👇 :point_down:
+
+
+[![Mente Maker](logo.png)](https://www.youtube.com/channel/UCdHR_M4vqK1rtKo56RMQ9tQ)
