@@ -1,16 +1,16 @@
-### Documentação para `quadratic-cubic-equation-solver`
+### Documentação para `equations`
 
 #### Instalação
 
 ```bash
-npm install quadratic-cubic-equation-solver
+npm install equations
 ```
 
 #### Uso
 
 ```typescript
 // Importe a biblioteca
-import { solveCubicEquation, solveQuadraticEquation } from 'quadratic-cubic-equation-solver';
+import { solveCubicEquation, solveQuadraticEquation } from 'equations';
 
 // Exemplo de uso para equação cúbica
 const raizesCubicas = solveCubicEquation(1, -6, 11, -6);

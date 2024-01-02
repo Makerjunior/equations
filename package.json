@@ -1,5 +1,5 @@
 {
-  "name": "equations",
+  "name": "@mentemaker/equations",
   "version": "1.0.0",
   "description": "equations resolver",
   "main": "dist/index.js",
