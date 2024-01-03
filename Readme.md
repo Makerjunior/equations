@@ -10,7 +10,7 @@ npm install equations
 
 ```typescript
 // Importe a biblioteca
-import { solveCubicEquation, solveQuadraticEquation } from 'equations';
+import { solveCubicEquation, solveQuadraticEquation } from '@mentemaker/equations';
 
 // Exemplo de uso para equação cúbica
 const raizesCubicas = solveCubicEquation(1, -6, 11, -6);
